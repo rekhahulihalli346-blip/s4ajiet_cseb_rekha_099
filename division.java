@@ -1,0 +1,12 @@
+package divide;
+
+	public class division {
+			  public static void main(String[] args) {
+			    int a=4;
+			    int b=2;
+			    int q=a/b;
+			    int r=a%b;
+			    System.out.println("q:"+q);
+			    System.out.println("r:"+r);
+			}
+}
